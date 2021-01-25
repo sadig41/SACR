@@ -1,0 +1,15 @@
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registeration.Repository.csprojResolveAssemblyReference.cache
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registration.Repository.dll
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registration.Repository.pdb
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Repository.dll.config
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Repository.dll
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Repository.pdb
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.dll
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Model.dll
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Model.pdb
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.xml
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registeration.Repository.csprojResolveAssemblyReference.cache
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registration.Repository.dll
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registration.Repository.pdb

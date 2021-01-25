@@ -1,0 +1,12 @@
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Repository.dll
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Repository.pdb
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Model.dll
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Model.pdb
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registration.Repository.csprojResolveAssemblyReference.cache
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registration.Repository.dll
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Repository\obj\Debug\Registration.Repository.pdb
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\Registration.Repository.dll.config
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.dll
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.xml
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Repository\bin\Debug\EntityFramework.SqlServer.xml
