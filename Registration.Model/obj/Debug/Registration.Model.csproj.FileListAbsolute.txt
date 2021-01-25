@@ -1,0 +1,10 @@
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Model\bin\Debug\Registration.Model.dll
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Model\bin\Debug\Registration.Model.pdb
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Model\obj\Debug\Registration.Model.dll
+c:\users\sadam.sac\documents\visual studio 2017\Projects\Registeration\Registration.Model\obj\Debug\Registration.Model.pdb
+C:\Users\sadam.SAC\documents\visual studio 2017\Projects\Registeration\Registration.Model\obj\Debug\Registration.Model.csprojResolveAssemblyReference.cache
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Model\bin\Debug\Registration.Model.dll
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Model\bin\Debug\Registration.Model.pdb
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Model\obj\Debug\Registration.Model.csprojResolveAssemblyReference.cache
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Model\obj\Debug\Registration.Model.dll
+C:\Users\sadam.SAC\Documents\doc\Visual Studio 2017\Projects\Registeration\Registration.Model\obj\Debug\Registration.Model.pdb
